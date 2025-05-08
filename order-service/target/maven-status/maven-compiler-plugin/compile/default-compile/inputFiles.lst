@@ -1,8 +1,0 @@
-D:\OnlineShoppingService\order-service\src\main\java\com\OrderService\OrderServiceApplication\model\Order.java
-D:\OnlineShoppingService\order-service\src\main\java\com\OrderService\OrderServiceApplication\controller\OrderController.java
-D:\OnlineShoppingService\order-service\src\main\java\com\OrderService\OrderServiceApplication\service\OrderService.java
-D:\OnlineShoppingService\order-service\src\main\java\com\OrderService\OrderServiceApplication\repository\OrderRepository.java
-D:\OnlineShoppingService\order-service\src\main\java\com\OrderService\OrderServiceApplication\OrderServiceApplication.java
-D:\OnlineShoppingService\order-service\src\main\java\com\OrderService\OrderServiceApplication\dto\OrderLineItemsDto.java
-D:\OnlineShoppingService\order-service\src\main\java\com\OrderService\OrderServiceApplication\dto\OrderRequest.java
-D:\OnlineShoppingService\order-service\src\main\java\com\OrderService\OrderServiceApplication\model\OrderLineItems.java
